@@ -1,2 +1,2 @@
 #!/bin/bash
-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
+ls -la > ls_cwd_content
